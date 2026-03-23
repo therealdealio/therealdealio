@@ -28,7 +28,7 @@ expertise:
   - LLM Products & Agentic AI (RAG, Tool Use, MCP, Streaming Inference)
   - Enterprise Data Platforms (Databricks, Snowflake, Spark, dbt)
   - 0-to-1 Product Strategy & Roadmaps
-  - Team Leadership (6 PMs direct; 75+ org @ Meta/Facebook)
+  - Team Leadership (PMs, Data Engineers, Data Analysts, Data Scientits)
 background:    5+ years Data Engineer + Data Scientist before PM
 ```
 
