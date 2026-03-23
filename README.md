@@ -112,7 +112,7 @@ A full-stack AI-powered LMS I designed, built, and deployed from scratch to help
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=therealdealio&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" alt="Richard's GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=therealdealio&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=therealdealio&layout=compact&theme=default&hide_border=true&count_private=true&langs_count=8&hide=html,css" alt="Top Languages" height="160"/>
 </p>
 
 ---
