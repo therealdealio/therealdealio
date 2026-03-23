@@ -28,7 +28,7 @@ expertise:
   - LLM Products & Agentic AI (RAG, Tool Use, MCP, Streaming Inference)
   - Enterprise Data Platforms (Databricks, Snowflake, Spark, dbt)
   - 0-to-1 Product Strategy & Roadmaps
-  - Team Leadership (PMs, Data Engineers, Data Analysts, Data Scientits)
+  - Team Leadership (PMs, Data Engineers, Data Analysts, Data Scientists)
 background:    5+ years Data Engineer + Data Scientist before PM
 ```
 
@@ -60,8 +60,9 @@ A full-stack AI-powered LMS I designed, built, and deployed from scratch to help
 ## 🛠️ What I Ship
 
 ### AI & LLM Products
+- **Hail Mary** — Polymarket prediction market trading agent with a 9-model mathematical pipeline: Bayesian priors, Kalman Filter momentum, Kelly Criterion position sizing, Monte Carlo risk simulation (10k runs), and Avellaneda-Stoikov market making. FastAPI backend + Next.js dashboard.
 - **Sales PrepMe** — GPT-4 meeting prep assistant aggregating 20+ data sources → 384 users, ~76,800 hrs/yr saved
-- **PCS Genie** — RAG-based enterprise AI agent over 500+ docs → >90% accuracy, ~20,000 hrs/yr saved  
+- **PCS Genie** — RAG-based enterprise AI agent over 500+ docs → >90% accuracy, ~20,000 hrs/yr saved
 - **RADAR** — AI document extraction for regulatory filings → 85–90% accuracy, 50% faster processing
 - **Lighthouse** — AI content generation pipeline → 95% time reduction across 330+ assets
 
@@ -107,6 +108,8 @@ A full-stack AI-powered LMS I designed, built, and deployed from scratch to help
 
 ## 📈 GitHub Stats
 
+> ⚠️ *Most of my production work lives in private or enterprise repos (Capital Group, client projects). Public stats reflect personal builds only.*
+
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=therealdealio&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" alt="Richard's GitHub Stats" height="160"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=therealdealio&layout=compact&theme=default&hide_border=true" alt="Top Languages" height="160"/>
@@ -114,12 +117,12 @@ A full-stack AI-powered LMS I designed, built, and deployed from scratch to help
 
 ---
 
-## 💡 What I'm Currently Exploring
+## 💡 What I'm Currently Building
 
-- 🔬 **Claude Code** — agentic software development workflows
-- 🕸️ **MCP (Model Context Protocol)** — standardizing AI agent integration patterns  
-- 🏗️ **AI SDLC** — Spec-to-Code-to-Deploy pipelines and governance frameworks
-- 📊 **Evaluation frameworks** for LLM accuracy and reliability at enterprise scale
+- 🤖 **Hail Mary** — Polymarket trading agent with a 9-model pipeline (Kalman Filter, Kelly Criterion, Monte Carlo) + live Next.js dashboard for position tracking
+- 📚 **Learn Agent Architecture** — expanding the LMS to full Anthropic certification prep: 58 practice questions, streaming AI eval, Stripe-gated tiers
+- 🧭 **AI PM Playbook** — open-source framework for product managers entering AI: DARE (innovation teams) and ALIGN (enterprise mandates) lifecycle methodologies
+- 🔬 **Claude Code + MCP** — building agentic dev workflows and Model Context Protocol integrations for real production use cases
 
 ---
 
