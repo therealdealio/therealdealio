@@ -108,7 +108,7 @@ A full-stack AI-powered LMS I designed, built, and deployed from scratch to help
 
 ## 📈 GitHub Stats
 
-> ⚠️ *Most of my production work lives in private or enterprise repos (Capital Group, client projects). Public stats reflect personal builds only.*
+> ⚠️ *Most of my production work lives in private or enterprise repos (client projects). Now working outside the shadows, my public stats reflect personal builds only.*
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=therealdealio&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" alt="Richard's GitHub Stats" height="160"/>
