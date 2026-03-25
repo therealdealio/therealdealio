@@ -57,6 +57,27 @@ A full-stack AI-powered LMS I designed, built, and deployed from scratch to help
 
 ---
 
+## 📖 Open-Source Playbooks
+
+### [📗 The Prompt Codex](https://therealdealio.github.io/the-prompt-codex/)
+> *Prompt engineering playbook for data organizations — 9+ roles, 50+ examples*
+
+Role-specific prompt engineering guidelines with bad-to-good transformations for Data Engineering, Product Management, ML Engineering, Data Science, BI, Data Analysis, QA, Data Governance, and more. Includes the Four Pillars framework, agent safety principles, pre-deployment checklists, and copy-paste templates.
+
+[![Repo](https://img.shields.io/badge/Repo-the--prompt--codex-24292F?style=flat&logo=github)](https://github.com/therealdealio/the-prompt-codex)
+[![Live](https://img.shields.io/badge/Live-The_Prompt_Codex-00A862?style=flat&logo=vercel)](https://therealdealio.github.io/the-prompt-codex/)
+[![Article](https://img.shields.io/badge/Article-LinkedIn-0A66C2?style=flat&logo=linkedin)](https://therealdealio.github.io/the-prompt-codex/article.html)
+
+### [📘 The AI PM Playbook](https://therealdealio.github.io/ai-pm-playbook/)
+> *From zero to AI Product Manager — DARE & ALIGN frameworks*
+
+A 7-chapter guide covering AI/ML foundations, the DARE framework (innovation teams) and ALIGN framework (enterprise mandates), working with engineering and data science, stakeholder management, building credibility, and landing the role.
+
+[![Repo](https://img.shields.io/badge/Repo-ai--pm--playbook-24292F?style=flat&logo=github)](https://github.com/therealdealio/ai-pm-playbook)
+[![Live](https://img.shields.io/badge/Live-AI_PM_Playbook-00A862?style=flat&logo=vercel)](https://therealdealio.github.io/ai-pm-playbook/)
+
+---
+
 ## 🛠️ What I Ship
 
 ### AI & LLM Products
@@ -121,8 +142,8 @@ A full-stack AI-powered LMS I designed, built, and deployed from scratch to help
 
 - 🤖 **Hail Mary** — Polymarket trading agent with a 9-model pipeline (Kalman Filter, Kelly Criterion, Monte Carlo) + live Next.js dashboard for position tracking
 - 📚 **Learn Agent Architecture** — expanding the LMS to full Anthropic certification prep: 58 practice questions, streaming AI eval, Stripe-gated tiers
+- 📗 **The Prompt Codex** — open-source prompt engineering playbook for data orgs: 9+ roles, 50+ bad-to-good examples, agent safety principles, copy-paste templates
 - 🧭 **AI PM Playbook** — open-source framework for product managers entering AI: DARE (innovation teams) and ALIGN (enterprise mandates) lifecycle methodologies
-- 🔬 **Claude Code + MCP** — building agentic dev workflows and Model Context Protocol integrations for real production use cases
 
 ---
 
