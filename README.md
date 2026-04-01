@@ -14,7 +14,7 @@
 
 I'm a **Principal AI Product Manager and builder** with 15+ years of experience turning complex data and AI capabilities into enterprise products that people actually use.
 
-At **Capital Group ($2.6T AUM)**, I led the 0-to-1 launch of 4 GenAI products in production — LLM-powered assistants, RAG-based knowledge agents, AI document extraction, and content generation pipelines.
+Experienced at building — LLM-powered assistants, RAG-based knowledge agents, AI document extraction, and content generation pipelines.
 
 What makes me different from most PMs: **I build.** I don't just spec features — I prototype, ship, and debug. This repo is proof.
 
