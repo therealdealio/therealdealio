@@ -1,7 +1,7 @@
 # Hi, I'm Richard Thai 👋
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&color=0969DA&width=700&lines=Principal+AI+%2B+Blockchain+Builder;Solana+%7C+Anchor+%7C+Smart+Contracts;LLM+%26+Agentic+AI+Products;15%2B+Years+from+Engineer+to+PM;Anthropic+API+%7C+RAG+%7C+MCP+%7C+Claude+Code" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=500&color=0969DA&width=700&lines=Principal+AI+%2B+Blockchain+Builder;Solana+%7C+Anchor+%7C+Smart+Contracts;Agentic+iPaaS+for+Supply+Chain;LLM+%26+Agentic+AI+Products;15%2B+Years+from+Engineer+to+PM;Anthropic+API+%7C+RAG+%7C+MCP+%7C+Claude+Code" alt="Typing SVG" />
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-richardthai-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/richardthai)
@@ -14,7 +14,7 @@
 
 I'm a **Principal AI Product Manager, blockchain developer, and builder** with 15+ years of experience turning complex data, AI, and web3 capabilities into products that people actually use.
 
-Currently building on **Solana** — shipping smart contracts with Anchor, on-chain marketplaces, and privacy-first decentralized apps. Also experienced at building LLM-powered assistants, RAG-based knowledge agents, AI document extraction, and content generation pipelines.
+Currently building on **Solana** — shipping smart contracts with Anchor, on-chain marketplaces, and privacy-first decentralized apps. Also co-founding **SupplyMind AI**, an agentic iPaaS that collapses SAP ↔ shipping carrier integrations from months to hours. Plus LLM-powered assistants, RAG-based knowledge agents, AI document extraction, and content generation pipelines.
 
 What makes me different from most PMs: **I build.** I don't just spec features — I prototype, ship, and debug. This repo is proof.
 
@@ -22,7 +22,7 @@ What makes me different from most PMs: **I build.** I don't just spec features �
 name:          Richard Thai
 title:         Principal AI Product Manager & Blockchain Developer
 location:      Southern California, USA
-current_build: ChainNotes (Solana) · learnagentarchitecture.com
+current_build: ZKPnote (Solana) · SupplyMind AI · learnagentarchitecture.com
 stack:         Rust · Anchor · Solana · TypeScript · Next.js · Anthropic API · Supabase · Vercel
 expertise:
   - Blockchain Development (Solana, Anchor, Smart Contracts, SPL Tokens)
@@ -37,19 +37,35 @@ background:    5+ years Data Engineer + Data Scientist before PM
 
 ## 🚀 Featured Projects
 
-### [🔗 ChainNotes](https://github.com/therealdealio)
-> *Privacy-first blockchain-backed note-taking on Solana*
+### [🔗 ZKPnote](https://zkpnote.com)
+> *Privacy-first blockchain-backed proof of originality for text & markdown*
 
-A decentralized note-taking app built on Solana where notes are encrypted, stored on-chain, and tradeable via a built-in marketplace. Smart contracts written in Rust with the Anchor framework.
+A decentralized note-taking app built on Solana where notes get a zero-knowledge proof of originality, can be traded via a built-in NFT marketplace, and are protected by a 3-layer content similarity system. Smart contracts written in Rust with the Anchor framework. Targets the AI/agent economy where markdown is the dominant content format.
 
 **What's inside:**
-- 🔐 **On-chain encryption** — notes are encrypted client-side before hitting the blockchain
+- 🔐 **Zero-knowledge proof of originality** — notes get an on-chain proof without revealing content
 - 🏪 **NFT Marketplace** — list, buy, and trade notes with 2% marketplace fees routed to treasury
+- 🛡️ **3-layer content protection** — marketplace similarity (70%), proof similarity (90%), trigram Jaccard comparison
 - ⚓ **Anchor smart contracts** — Rust programs deployed on Solana with PDAs and SPL token integration
 - 💰 **Treasury wallet** — dedicated production wallet for marketplace fee revenue
 - ⚡ **Solana speed** — sub-second finality for all transactions
 
 **Stack:** Rust · Anchor · Solana · TypeScript · Next.js · Phantom Wallet
+
+### [🚚 SupplyMind AI](https://github.com/therealdealio)
+> *Agentic iPaaS collapsing SAP ↔ shipping carrier integrations from months to hours*
+
+A domain-specific iPaaS co-founded with an SAP insider to solve a painful problem: integrating ONE shipping carrier with SAP takes ~4 months, and there are 400+ carriers. SupplyMind uses four specialized Claude agents to do it in hours.
+
+**What's inside:**
+- 🤖 **Four specialized Claude agents** — Analyzer (parse), Mapper (confidence-scored field mapping), Transformer (generate rules), Validator (SAP business-rule checks)
+- 📦 **Multi-format ingestion** — CSV, JSON, XML, EDI X12/EDIFACT, flat files, API specs
+- 🧩 **SAP IDoc mapping** — DESADV (ASN), SHPMNT, INVOIC, Status/Tracking updates
+- 🎯 **Visual field-mapping review** — confidence scores with manual override
+- 💬 **Natural-language troubleshooting** — chat interface for integration debugging
+- 📊 **Integration dashboard** — status, records processed, errors, last sync
+
+**Stack:** Next.js 14 · shadcn/ui · Supabase · Clerk · Anthropic Claude · Vercel
 
 ### [🤖 Learn Agent Architecture](https://learnagentarchitecture.com)
 > *Anthropic Architecture Certification prep — built with Claude*
@@ -96,7 +112,10 @@ A 7-chapter guide covering AI/ML foundations, the DARE framework (innovation tea
 ## 🛠️ What I Ship
 
 ### Blockchain & Web3
-- **ChainNotes** — Privacy-first decentralized note-taking on Solana with encrypted on-chain storage, NFT marketplace, and Anchor smart contracts (Rust)
+- **ZKPnote** — Privacy-first decentralized note-taking on Solana with zero-knowledge proof of originality, NFT marketplace, 3-layer content protection, and Anchor smart contracts (Rust)
+
+### Agentic Integration
+- **SupplyMind AI** — Domain-specific iPaaS for SAP ↔ shipping carrier integration. Four specialized Claude agents (Analyzer, Mapper, Transformer, Validator) collapse 4-month integrations to hours. Ingests CSV/JSON/XML/EDI, maps to SAP IDoc types (DESADV, SHPMNT, INVOIC).
 
 ### AI & LLM Products
 - **Hail Mary** — Polymarket prediction market trading agent with a 9-model mathematical pipeline: Bayesian priors, Kalman Filter momentum, Kelly Criterion position sizing, Monte Carlo risk simulation (10k runs), and Avellaneda-Stoikov market making. FastAPI backend + Next.js dashboard.
@@ -164,7 +183,8 @@ A 7-chapter guide covering AI/ML foundations, the DARE framework (innovation tea
 
 ## 💡 What I'm Currently Building
 
-- 🔗 **ChainNotes** — Privacy-first decentralized note-taking on Solana: encrypted on-chain storage, NFT marketplace with treasury fees, Anchor smart contracts in Rust
+- 🔗 **ZKPnote** — Privacy-first blockchain-backed proof of originality on Solana: zero-knowledge proofs, NFT marketplace with 3-layer content protection, Anchor smart contracts in Rust
+- 🚚 **SupplyMind AI** — Agentic iPaaS for SAP ↔ shipping carrier integration: four specialized Claude agents, EDI/IDoc mapping, visual field-mapping review UI
 - 🤖 **Hail Mary** — Polymarket trading agent with a 9-model pipeline (Kalman Filter, Kelly Criterion, Monte Carlo) + live Next.js dashboard for position tracking
 - 📚 **Learn Agent Architecture** — expanding the LMS to full Anthropic certification prep: 58 practice questions, streaming AI eval, Stripe-gated tiers
 - 📗 **The Prompt Codex** — open-source prompt engineering playbook for data orgs: 9+ roles, 50+ bad-to-good examples, agent safety principles, copy-paste templates
@@ -173,7 +193,7 @@ A 7-chapter guide covering AI/ML foundations, the DARE framework (innovation tea
 
 ## 📬 Let's Connect
 
-I'm always open to conversations about **blockchain development**, **AI product strategy**, **agentic architecture**, and what it takes to ship products that actually work in production.
+I'm always open to conversations about **blockchain development**, **agentic AI**, **AI product strategy**, and what it takes to ship products that actually work in production.
 
 [![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/richardthai)
 [![Website](https://img.shields.io/badge/Learn_Agent_Architecture-CC5500?style=flat&logo=vercel&logoColor=white)](https://learnagentarchitecture.com)
