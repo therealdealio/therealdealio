@@ -6,6 +6,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-richardthai-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/richardthai)
 [![Website](https://img.shields.io/badge/Website-learnagentarchitecture.com-CC5500?style=flat&logo=vercel&logoColor=white)](https://learnagentarchitecture.com)
+[![Website](https://img.shields.io/badge/Website-zkpnote.com-7c5bdf?style=flat&logo=vercel&logoColor=white)](https://zkpnote.com)
+[![Website](https://img.shields.io/badge/Website-supplymind-0d91ef?style=flat&logo=vercel&logoColor=white)](https://supplymind.vercel.app)
 [![Email](https://img.shields.io/badge/Email-rrthai88@gmail.com-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:rrthai88@gmail.com)
 
 ---
