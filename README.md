@@ -133,75 +133,24 @@ A 7-chapter guide covering AI/ML foundations, the DARE framework (innovation tea
 
 ---
 
-## 🧰 Tech Stack
+## 📈 Language Portfolio
 
-**Blockchain & Web3**
+> ⚠️ *Public GitHub stats undercount my real work — most production code lives in private and enterprise repos. The breakdown below reflects all active builds (public + private) and enterprise production work.*
 
-![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat&logo=solana&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
-![Anchor](https://img.shields.io/badge/Anchor-5C4EE5?style=flat)
+### Languages Shipped in Production
 
-**AI & Agentic**
-
-![Anthropic](https://img.shields.io/badge/Anthropic_Claude-CC5500?style=flat&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_GPT--4-412991?style=flat&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/RAG_Pipelines-1C7737?style=flat)
-![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-0969DA?style=flat)
-
-**Languages & Frameworks**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-Expert-336791?style=flat&logo=postgresql&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js_14-000000?style=flat&logo=next.js&logoColor=white)
-
-**Data Platform**
-
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
-![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
-![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
-
-**Cloud & Infra**
-
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
-
----
-
-## 📈 Project Portfolio
-
-> ⚠️ *Most production work lives in private or enterprise repos (client projects). Breakdown below reflects public builds.*
-
-### Pinned Repositories
-
-<p align="left">
-  <a href="https://github.com/therealdealio/lms-web">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=therealdealio&repo=lms-web&theme=default&hide_border=true" height="130"/>
-  </a>
-  <a href="https://github.com/therealdealio/the-prompt-codex">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=therealdealio&repo=the-prompt-codex&theme=default&hide_border=true" height="130"/>
-  </a>
-</p>
-<p align="left">
-  <a href="https://github.com/therealdealio/ai-pm-playbook">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=therealdealio&repo=ai-pm-playbook&theme=default&hide_border=true" height="130"/>
-  </a>
-  <a href="https://github.com/therealdealio/percolator-launch">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=therealdealio&repo=percolator-launch&theme=default&hide_border=true" height="130"/>
-  </a>
-</p>
-<p align="left">
-  <a href="https://github.com/therealdealio/pretrained.ml">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=therealdealio&repo=pretrained.ml&theme=default&hide_border=true" height="130"/>
-  </a>
-  <a href="https://github.com/therealdealio/zkpnote-whitepaper">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=therealdealio&repo=zkpnote-whitepaper&theme=default&hide_border=true" height="130"/>
-  </a>
-</p>
+| Language | Est. Share | Where I Ship It | Years |
+|---|---|---|---|
+| **TypeScript / JavaScript** | ██████████████████░░ 35% | Learn Agent Architecture · ChainNotes · SupplyMind AI · ZKPnote Web · Percolator · Hail Mary dashboard | 8+ |
+| **Python** | ████████████░░░░░░░░ 25% | Hail Mary (FastAPI, NumPy, Kalman Filter, Monte Carlo) · pretrained.ml · Databricks/Spark pipelines · ML notebooks · data scripts | 10+ |
+| **SQL** | ████████░░░░░░░░░░░░ 15% | Databricks · Snowflake · BigQuery · PostgreSQL · Redshift · dbt models · analytical queries at Capital Group | 15+ |
+| **Rust** | ████░░░░░░░░░░░░░░░░ 8% | ZKPnote desktop (Tauri + yrs + SQLCipher) · Anchor smart contracts (Solana) | 2+ |
+| **HTML / CSS** | ███░░░░░░░░░░░░░░░░░ 6% | The Prompt Codex · AI PM Playbook · LMS UI · marketing pages | 10+ |
+| **Java** | ██░░░░░░░░░░░░░░░░░░ 4% | Enaxis (early-career enterprise work) · JVM-based data pipelines | 5+ |
+| **Shell / Bash** | █░░░░░░░░░░░░░░░░░░░ 3% | DevOps · CI/CD · data pipeline orchestration · Airflow | 10+ |
+| **YAML / JSON / TOML** | █░░░░░░░░░░░░░░░░░░░ 2% | Infra-as-code · GitHub Actions · Docker Compose · Terraform configs | 8+ |
+| **Solidity / Anchor** | █░░░░░░░░░░░░░░░░░░░ 1% | ChainNotes smart contracts · ZKPnote on-chain proofs | 1+ |
+| **R / SAS** | █░░░░░░░░░░░░░░░░░░░ 1% | Statistical modeling · legacy analytics | 5+ |
 
 ### Project → Stack Breakdown
 
@@ -216,12 +165,43 @@ A 7-chapter guide covering AI/ML foundations, the DARE framework (innovation tea
 | **SupplyMind AI** *(private)* | Agentic iPaaS | TypeScript · Next.js · React Flow · Claude SDK | AWS · MCP |
 | **Percolator Launch** | DeFi / Perpetuals | TypeScript · Solana | Solana |
 | **pretrained.ml** | ML Research | Python · TensorFlow · PyTorch | — |
+| **Capital Group GenAI Suite** *(enterprise)* | LLM Products | Python · TypeScript · Databricks · SQL | Azure · Databricks |
 
-### Language Mix (public repos)
+### Frameworks & Platforms
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=therealdealio&layout=compact&theme=default&hide_border=true&count_private=true&langs_count=10&hide=css" alt="Top Languages" height="150"/>
-</p>
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat&logo=solidity&logoColor=white)
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Tauri](https://img.shields.io/badge/Tauri-24C8D8?style=flat&logo=tauri&logoColor=white)
+![Anchor](https://img.shields.io/badge/Anchor-512BD4?style=flat)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+![Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
+![dbt](https://img.shields.io/badge/dbt-FF694B?style=flat&logo=dbt&logoColor=white)
+![Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+![Postgres](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
+
+![Anthropic](https://img.shields.io/badge/Anthropic_Claude-CC5500?style=flat&logo=anthropic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_GPT--4-412991?style=flat&logo=openai&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-0969DA?style=flat)
+![LangChain](https://img.shields.io/badge/RAG-1C7737?style=flat)
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-9945FF?style=flat&logo=solana&logoColor=white)
 
 ---
 
