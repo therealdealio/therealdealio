@@ -172,13 +172,55 @@ A 7-chapter guide covering AI/ML foundations, the DARE framework (innovation tea
 
 ---
 
-## 📈 GitHub Stats
+## 📈 Project Portfolio
 
-> ⚠️ *Most of my production work lives in private or enterprise repos (client projects). Now working outside the shadows, my public stats reflect personal builds only.*
+> ⚠️ *Most production work lives in private or enterprise repos (client projects). Breakdown below reflects public builds.*
+
+### Pinned Repositories
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=therealdealio&show_icons=true&theme=default&hide_border=true&count_private=true&include_all_commits=true" alt="Richard's GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=therealdealio&layout=compact&theme=default&hide_border=true&count_private=true&langs_count=8&hide=html,css" alt="Top Languages" height="160"/>
+  <a href="https://github.com/therealdealio/lms-web">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=therealdealio&repo=lms-web&theme=default&hide_border=true" height="130"/>
+  </a>
+  <a href="https://github.com/therealdealio/the-prompt-codex">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=therealdealio&repo=the-prompt-codex&theme=default&hide_border=true" height="130"/>
+  </a>
+</p>
+<p align="left">
+  <a href="https://github.com/therealdealio/ai-pm-playbook">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=therealdealio&repo=ai-pm-playbook&theme=default&hide_border=true" height="130"/>
+  </a>
+  <a href="https://github.com/therealdealio/percolator-launch">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=therealdealio&repo=percolator-launch&theme=default&hide_border=true" height="130"/>
+  </a>
+</p>
+<p align="left">
+  <a href="https://github.com/therealdealio/pretrained.ml">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=therealdealio&repo=pretrained.ml&theme=default&hide_border=true" height="130"/>
+  </a>
+  <a href="https://github.com/therealdealio/zkpnote-whitepaper">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=therealdealio&repo=zkpnote-whitepaper&theme=default&hide_border=true" height="130"/>
+  </a>
+</p>
+
+### Project → Stack Breakdown
+
+| Project | Domain | Primary Stack | Infra |
+|---|---|---|---|
+| **Learn Agent Architecture** | AI LMS / Education | TypeScript · Next.js 14 · Anthropic SDK · Prisma | Supabase · Stripe · Vercel |
+| **The Prompt Codex** | Playbook / Thought Leadership | HTML · CSS · JS | GitHub Pages |
+| **AI PM Playbook** | Playbook / Thought Leadership | HTML · CSS · JS | GitHub Pages |
+| **Hail Mary** *(private)* | Agentic Trading | Python · FastAPI · Next.js · NumPy | Docker · Postgres |
+| **ZKPnote** *(private)* | Privacy / Blockchain | Rust · Tauri · Anchor · Next.js | Solana · SQLCipher |
+| **ChainNotes** *(private)* | Web3 / Marketplace | TypeScript · Next.js · Anchor | Solana · IPFS |
+| **SupplyMind AI** *(private)* | Agentic iPaaS | TypeScript · Next.js · React Flow · Claude SDK | AWS · MCP |
+| **Percolator Launch** | DeFi / Perpetuals | TypeScript · Solana | Solana |
+| **pretrained.ml** | ML Research | Python · TensorFlow · PyTorch | — |
+
+### Language Mix (public repos)
+
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=therealdealio&layout=compact&theme=default&hide_border=true&count_private=true&langs_count=10&hide=css" alt="Top Languages" height="150"/>
 </p>
 
 ---
