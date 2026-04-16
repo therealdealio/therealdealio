@@ -121,15 +121,6 @@ A 7-chapter guide covering AI/ML foundations, the DARE framework (innovation tea
 
 ### AI & LLM Products
 - **Hail Mary** — Polymarket prediction market trading agent with a 9-model mathematical pipeline: Bayesian priors, Kalman Filter momentum, Kelly Criterion position sizing, Monte Carlo risk simulation (10k runs), and Avellaneda-Stoikov market making. FastAPI backend + Next.js dashboard.
-- **Sales PrepMe** — GPT-4 meeting prep assistant aggregating 20+ data sources → 384 users, ~76,800 hrs/yr saved
-- **PCS Genie** — RAG-based enterprise AI agent over 500+ docs → >90% accuracy, ~20,000 hrs/yr saved
-- **RADAR** — AI document extraction for regulatory filings → 85–90% accuracy, 50% faster processing
-- **Lighthouse** — AI content generation pipeline → 95% time reduction across 330+ assets
-
-### Enterprise Data Platforms
-- **Global Client Connect** — 40+ third-party datasets unified on Databricks (Fidelity, Morgan Stanley, UBS, Wells Fargo...)
-- **Retirement Plan Omnibus** — $200B+ DCIO data product unlocking $29.3B in unattributed AUM
-- **Model Alignment Index API** — Real-time portfolio recommendation REST API
 
 ---
 
@@ -143,7 +134,7 @@ A 7-chapter guide covering AI/ML foundations, the DARE framework (innovation tea
 |---|---|---|---|
 | **TypeScript / JavaScript** | ██████████████████░░ 35% | Learn Agent Architecture · ChainNotes · SupplyMind AI · ZKPnote Web · Percolator · Hail Mary dashboard | 8+ |
 | **Python** | ████████████░░░░░░░░ 25% | Hail Mary (FastAPI, NumPy, Kalman Filter, Monte Carlo) · pretrained.ml · Databricks/Spark pipelines · ML notebooks · data scripts | 10+ |
-| **SQL** | ████████░░░░░░░░░░░░ 15% | Databricks · Snowflake · BigQuery · PostgreSQL · Redshift · dbt models · analytical queries at Capital Group | 15+ |
+| **SQL** | ████████░░░░░░░░░░░░ 15% | Databricks · Snowflake · BigQuery · PostgreSQL · Redshift · dbt models · enterprise analytical queries | 15+ |
 | **Rust** | ████░░░░░░░░░░░░░░░░ 8% | ZKPnote desktop (Tauri + yrs + SQLCipher) · Anchor smart contracts (Solana) | 2+ |
 | **HTML / CSS** | ███░░░░░░░░░░░░░░░░░ 6% | The Prompt Codex · AI PM Playbook · LMS UI · marketing pages | 10+ |
 | **Java** | ██░░░░░░░░░░░░░░░░░░ 4% | Enaxis (early-career enterprise work) · JVM-based data pipelines | 5+ |
@@ -165,7 +156,6 @@ A 7-chapter guide covering AI/ML foundations, the DARE framework (innovation tea
 | **SupplyMind AI** *(private)* | Agentic iPaaS | TypeScript · Next.js · React Flow · Claude SDK | AWS · MCP |
 | **Percolator Launch** | DeFi / Perpetuals | TypeScript · Solana | Solana |
 | **pretrained.ml** | ML Research | Python · TensorFlow · PyTorch | — |
-| **Capital Group GenAI Suite** *(enterprise)* | LLM Products | Python · TypeScript · Databricks · SQL | Azure · Databricks |
 
 ### Frameworks & Platforms
 
